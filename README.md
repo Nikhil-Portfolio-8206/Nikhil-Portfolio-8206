@@ -23,7 +23,7 @@
 	</h3> -->
 
 <hr>   
-"I am a passionate web developer and programming enthusiast with a keen interest in exploring new technologies. I love creating innovative projects and finding effective solutions through technology. Currently, I’m focused on web development 🕸️, learning data structures and algorithms, and honing my problem-solving skills. My tech stack includes JavaScript, SQL, HTML, CSS, Bootstrap, and I’m also expanding my knowledge in backend technologies."
+"I am a passionate web and Application development and programming enthusiast with a keen interest in exploring new technologies. I love creating innovative projects and finding effective solutions through technology. Currently, I’m focused on web and Application development 🕸️, learning data structures and algorithms, and honing my problem-solving skills. My tech stack includes Java,JavaScript, SQL, HTML, CSS, Bootstrap, and I’m also expanding my knowledge in backend technologies."
  
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 	
@@ -31,12 +31,12 @@
 	
 <h4>🗣 Talking about Personal Stuffs:</h4>
     
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and doing Competitive Programming.
+- 🛠 &nbsp; Having exposure to Data Structure and Algorithms and doing Competitive Programming.
 - 🏗 &nbsp; Building Websites.
-- 🚀 &nbsp; I’m currently learning React.js and Node.js.
+- 🚀 &nbsp; Having Exposure to React.js 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Nikhil-Portfolio-8206).
 - 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge myself and develop my skills.
-- 📫 &nbsp; How to reach me: nikhil.jmsyadav@gmail.com
+- 📫 &nbsp; How to reach me: nikhil.kmr.jms@gmail.com or 6380819288
 
 <hr>
     
@@ -46,6 +46,8 @@
 - [Drum Kit Play Project](https://nikhil-portfolio-8206.github.io/Drum-kit-play-project/)
 - [Calculator Project](https://nikhil-portfolio-8206.github.io/2-Calculator-project/)
 - [To-Do List Project](https://nikhil-portfolio-8206.github.io/3-To-do-list/)
+- [Netflix_Movies_Interface](https://movies-database-amber.vercel.app/)
+- [Live_weather](https://nikhil-portfolio-8206.github.io/3-To-do-list/)
 
 <hr>
     
@@ -62,9 +64,9 @@
 ## Tech Stack:
 
 ### Programming Languages:
-- JavaScript
-- SQL
 - Java
+- SQL
+- JavaScript
 
 ### Web Development:
 - HTML
