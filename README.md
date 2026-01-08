@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/Nikhil-Portfolio-8206">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;SQL+Developer;Data+Analysis;Power+BI;Advanced+Excel;Learning+Backend+Techs;Data+Structure+and+Algorithm;Competitive+Coding;Tech+Enthusiast" alt="Typing SVG"/>
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=435&lines=Java;Front-End;SQL;Data+Analysis;Power+BI;Advanced+Excel;Learning+Backend+Techs;Data+Structure+and+Algorithm;Competitive+Coding;Tech+Enthusiast" alt="Typing SVG"/>
 </a>
 <div align=center>
     <a href="https://github.com/Nikhil-Portfolio-8206">
