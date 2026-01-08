@@ -64,6 +64,7 @@
 ### Programming Languages:
 - JavaScript
 - SQL
+- Java
 
 ### Web Development:
 - HTML
